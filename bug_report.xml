@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+  <XML>
+    <id>1</id> 
+    <title or summary>Не работает кнопка оплаты</title or summary>
+    <environment>Операционная система Win 10, browser Chrome 10.1</environment>
+    <step to reproduce>пройти по ссылке..., добавить товар в корзину, перейти в корзину, нажать кнопку для оплаты....</step to reproduce>
+    <expected results>Прошла оплата</expected results>
+    <actual results>Ничего не происходит, деньги не списываются</actual results>
+    <priority>high</priority>
+    <severity>blocker</severity>
+    <attachment>скриншоты</attachment>
+    <work around>нет</work around>
+    <reporter>Синявский Максим</reporter>
+  </XML>
